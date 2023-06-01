@@ -1,0 +1,50 @@
+body{
+    background-color: #e68067;
+    color: #fff;
+}
+
+input, select, textarea{
+    background-color: #e68067;
+}
+
+::placeholder{
+    color: #fff;
+}
+
+
+#prop{
+    color: #5d4079;
+    background-color: #ffffff;
+}
+h3{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 60%;
+    color: #5d4079;
+    background-color: #ffffff;
+    border-radius: 6px;
+    border-spacing: 2px;
+    font: bold;
+    font-size:30px ;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    }
+    td{
+        color: #fff;
+        border: 1px solid #fff;
+        padding: 5px;
+        border-radius: 6px;
+        border-spacing:5px ;
+
+    }
+    #submit{
+        color: #ffffff;
+        background-color: #5d4079;
+        border-radius: 6px;
+        padding: 3px;
+        font-weight: bold;
+        margin-left:600px;
+    }
